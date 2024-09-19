@@ -11,7 +11,6 @@ tags:
 
 > “Yeah, Let's learning bioinformatics. ”
 
-# Computer Science
 
 # Study plan
 
