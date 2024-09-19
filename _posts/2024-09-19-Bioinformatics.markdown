@@ -14,16 +14,16 @@ tags:
 
 # Study plan
 
-## Before class
+**Before class**
 
 - [ ]  **Preview tutorial**
 
-## In class
+**In class**
 
 - [ ]  **Take notes**
 - [ ]  **Preview tutorial**
 
-## After class
+**After class**
 
 - [ ]  **Review**
 - [ ]  **Read more materials and take notes**
